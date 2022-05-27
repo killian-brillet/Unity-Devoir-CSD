@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01d548d50c9543b4f894e50d1a325df8, type: 3}
+  m_Name: Glace
+  m_EditorClassIdentifier: 
+  apparence: {fileID: 21300000, guid: b8a1ca8416b6dfb42b761d77d1c4fe65, type: 3}
+  recette1: 7a00000072000000
+  recette2: 6100000072000000
+  recette3: 6500000072000000
+  foodname: glace
